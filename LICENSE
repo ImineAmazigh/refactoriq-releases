@@ -1,24 +1,35 @@
-This is free and unencumbered software released into the public domain.
+RefactorIQ — Binary License
+Copyright (c) 2026 Amazigh Imine. All rights reserved.
 
-Anyone is free to copy, modify, publish, use, compile, sell, or
-distribute this software, either in source code form or as a compiled
-binary, for any purpose, commercial or non-commercial, and by any
-means.
+This license covers the RefactorIQ binaries distributed from this
+repository ("the Software"). The Software is licensed, not sold.
 
-In jurisdictions that recognize copyright laws, the author or authors
-of this software dedicate any and all copyright interest in the
-software to the public domain. We make this dedication for the benefit
-of the public at large and to the detriment of our heirs and
-successors. We intend this dedication to be an overt act of
-relinquishment in perpetuity of all present and future rights to this
-software under copyright law.
+1. Permitted use. You may download, install, and use the Software for
+   your own personal or internal business purposes.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
-OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
-ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-OTHER DEALINGS IN THE SOFTWARE.
+2. Trial and Demo limits. Trial, Free, and Demo editions are subject to
+   the limits shown in the app (e.g. trial expiry, item caps, locked
+   features). A paid license key removes the limits of the edition it
+   was issued for.
 
-For more information, please refer to <https://unlicense.org>
+3. Restrictions. You may not copy, redistribute, resell, sublicense,
+   rent, or publish the Software, in whole or in part. You may not
+   reverse engineer, decompile, or disassemble the Software except
+   where such restriction is prohibited by applicable law.
+
+4. Ownership. RefactorIQ and its author retain all right, title, and
+   interest in and to the Software. No rights are granted other than
+   those expressly stated above.
+
+5. No warranty. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF
+   ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+   WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE,
+   AND NONINFRINGEMENT. The Software is Beta and may contain defects.
+
+6. Limitation of liability. TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN
+   NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR
+   OTHER LIABILITY ARISING FROM OR IN CONNECTION WITH THE SOFTWARE OR
+   THE USE OF THE SOFTWARE.
+
+7. Termination. This license ends automatically if you breach it; you
+   must then delete all copies of the Software.
