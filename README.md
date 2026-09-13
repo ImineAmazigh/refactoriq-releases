@@ -1,5 +1,8 @@
 # RefactorIQ — Releases
 
+> **Beta** — this software is not fully verified or tested and may have
+> problems. Use at your own risk.
+
 RefactorIQ turns technical debt into measurable engineering economics:
 hours, cost, priority, trends, and reports. Native desktop app for
 **Windows** and **Linux**.
