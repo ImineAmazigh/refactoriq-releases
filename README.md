@@ -28,6 +28,13 @@ Get them from the **Releases** page on either forge:
 > Note: file names carry the app version (`0.1.0`) while the release tag
 > (`v0.1.10`) marks the build. Same binaries on both forges.
 
+## Screenshots
+
+![Dashboard](screenshots/dashboard.png)
+![Debt inventory](screenshots/debt-inventory.png)
+![Prioritization](screenshots/prioritize.png)
+![Trends](screenshots/trends.png)
+
 ## Install
 
 **Windows** — run `RefactorIQ_0.1.0_x64-setup.exe` and follow the wizard.
